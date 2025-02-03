@@ -1,4 +1,4 @@
 # monitoring.grafana-homelab-dashboard
-This is a public dashboard for Grafana to use with Node Exporter and Prometheus operator to show all important data in just one look.
+This dashboard monitors the health and performance of Kubernetes nodes, showcasing essential metrics such as CPU usage, RAM, disk space, and temperature. It allows teams to quickly identify potential issues and optimize resource allocation for improved system efficiency.
 
 ![DASHBOARD](./assets/home.png)
